@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118.2482082018607, 34.05712336450273]
+            },
+            "properties": {
+                "SK": "CA#THEOFFER#34.05712336450273#-118.2482082018607",
+                "LAT": 34.05712336450273,
+                "LON": -118.2482082018607,
+                "ADDRESS": "135 N Grand Ave, Los Angeles",
+                "DATE": "1641790800",
+                "PROJECT": "The Offer",
+                "WEBSITE": "https://www.imdb.com/title/tt13111040/",
+                "CREDIT": "",
+                "STATE": "CA",
+                "PUBLISH": true,
+                "AUTHOR": "olv",
+                "ttl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9838159729025, 40.76545960874218]
+            },
+            "properties": {
+                "SK": "NY#LAW&ORDER:ORGANIZEDCRIME#40.76545960874218#-73.9838159729025",
+                "LAT": 34.05597,
+                "LON": -118.24889,
+                "ADDRESS": "8th Ave. and 55th St., New York",
+                "DATE": "1641790800",
+                "PROJECT": "LAW & ORDER: ORGANIZED CRIME",
+                "WEBSITE": "https://www.imdb.com/title/tt12677870/",
+                "CREDIT": ["@NYCMeIDeey"],
+                "STATE": "NY",
+                "PUBLISH": true,
+                "AUTHOR": "olv",
+                "ttl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.93569098639409, 40.85035637411057]
+            },
+            "properties": {
+                "SK": "NY#THEEQUALIZER#40.85035637411057#-73.93569098639409",
+                "LAT": 40.85035637411057,
+                "LON": "-73.93569098639409",
+                "ADDRESS": "8th Ave. and 55th St., New York",
+                "DATE": "1641790800",
+                "PROJECT": "The Equalizer",
+                "WEBSITE": "https://www.imdb.com/title/tt11242246/",
+                "CREDIT": ["@DancinSwiftie13"],
+                "STATE": "NY",
+                "PUBLISH": true,
+                "AUTHOR": "olv",
+                "ttl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.98625704591608, 40.767414018336844]
+            },
+            "properties": {
+                "SK": "NY#BLUEBLOODS#40.767414018336844#-73.98625704591608",
+                "LAT": 40.767414018336844,
+                "LON": "-73.98625704591608",
+                "ADDRESS": "W56th St. & 9th Ave., New York",
+                "DATE": "1641790800",
+                "PROJECT": "Blue Bloods",
+                "WEBSITE": "https://www.imdb.com/title/tt1595859",
+                "CREDIT": ["@perf3ctlyplastc"],
+                "STATE": "NY",
+                "PUBLISH": true,
+                "AUTHOR": "olv",
+                "ttl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.8851067747521, 40.744123449601226]
+            },
+            "properties": {
+                "SK": "NY#BLUEBLOODS#",
+                "LAT": "40.744123449601226",
+                "LON": -73.8851067747521,
+                "ADDRESS": "Baxter Ave. and Broadway, Queens",
+                "DATE": "1641790800",
+                "PROJECT": "Blue Bloods",
+                "WEBSITE": "https://www.imdb.com/title/tt1595859",
+                "CREDIT": ["@BSam2424", "@eexta"],
+                "STATE": "NY",
+                "PUBLISH": true,
+                "AUTHOR": "olv",
+                "ttl": ""
+            }
+        }
+    ]
+}
